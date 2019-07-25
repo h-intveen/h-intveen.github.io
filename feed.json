@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Wheelies.nl",
     "description": "",
-    "home_page_url": "https://herman-intveen.github.io",
-    "feed_url": "https://herman-intveen.github.io/feed.json",
+    "home_page_url": "https://h-intveen.github.io",
+    "feed_url": "https://h-intveen.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Herman in &#x27;t Veen"
     },
     "items": [
         {
-            "id": "https://herman-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
-            "url": "https://herman-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
+            "id": "https://h-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
+            "url": "https://h-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
             "title": "Robothond versleept vliegtuig van 3300 kilo in Italië",
             "summary": "In deze video op CNet.com is een sterk staaltje robottechniek te zien..... De HyQReal robot is ontworpen door researchers van Istituto Italiano di Tecnologia (IIT). Oorspronkelijk doel is om mensen bij rampen, dus in noodsituaties, te helpen.",
             "content_html": "In <a href=\"https://youtu.be/pLsNs1ZS_TI\">deze video op CNet.com</a> is een sterk staaltje robottechniek te zien.....<br>De HyQReal robot is ontworpen door researchers van Istituto Italiano di Tecnologia (IIT). Oorspronkelijk doel is om mensen bij rampen, dus in noodsituaties, te helpen.",
-            "image": "https://herman-intveen.github.io/media/posts/41/HyQReal.jpg",
+            "image": "https://h-intveen.github.io/media/posts/41/HyQReal.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -25,8 +25,8 @@
             "date_modified": "2019-05-24T21:20:20+02:00"
         },
         {
-            "id": "https://herman-intveen.github.io/google-presenteert-liveondertiteling.html",
-            "url": "https://herman-intveen.github.io/google-presenteert-liveondertiteling.html",
+            "id": "https://h-intveen.github.io/google-presenteert-liveondertiteling.html",
+            "url": "https://h-intveen.github.io/google-presenteert-liveondertiteling.html",
             "title": "Google presenteert liveondertiteling",
             "summary": "Over onderstaand artkel is nu inmiddels meer nieuws verschenen op Nu.nl. Enkele quotes uit dit artikel: Voor doven en slechthorenden zijn de meeste functies van smartphones goed te gebruiken, maar telefoneren en de consumptie van media met geluid kunnen nog altijd een obstakel vormen. Met&hellip;",
             "content_html": "<p>Over onderstaand artkel is nu inmiddels <a href=\"https://www.nu.nl/mobiel/5886102/zo-maakt-google-toegankelijkheidsopties-nuttig-voor-iedereen.html\">meer nieuws verschenen op Nu.nl</a>. Enkele quotes uit dit artikel:</p>\n<blockquote>\n<p>Voor doven en slechthorenden zijn de meeste functies van smartphones goed te gebruiken, maar telefoneren en de consumptie van media met geluid kunnen nog altijd een obstakel vormen. Met de snelle verbetering van spraak-naar-tekst-technologie begint daar verandering in te komen.</p>\n<p>Later dit jaar zal het op de nieuwste Pixel-telefoons van Google mogelijk worden om liveondertiteling aan te zetten bij alle video's en geluidsbestanden</p>\n<p>Omdat de ondertiteling geheel op het apparaat plaatsvindt, verschijnen teksten zodra ze zijn uitgesproken bijna zonder vertraging. De functie werkt ook offline, bijvoorbeeld met podcasts die al eerder zijn gedownload. Nadeel van de offlineverwerking is dat hiervoor een taalmodel naar de smartphone moet worden gedownload. Voorlopig is alleen voor het Engels zo'n model beschikbaar, dus Nederlanders zullen nog even op de functie moeten wachten.</p>\n</blockquote>\n<p>In <a href=\"https://www.nu.nl/internet/5879964/google-presenteert-liveondertiteling-en-android-q-krijgt-focusmodus.html\">dit artilkel op NU.nl </a>is sprake van Live Caption: liveondertiteling voor slechthorenden:</p>\n<blockquote>\n<p><em>Met de functie Live Caption wordt het ook mogelijk om liveondertiteling te zien bij alles wat op een Android-smartphone gebeurt. Video's, podcasts en andere media met spraak worden op het scherm ondertiteld. Dat moet het voor doven en slechthorenden makkelijker maken om hun smartphone te gebruiken.</em></p>\n<p><em>Het wordt voor hen ook mogelijk om te telefoneren zonder geluid of spraak. De stemassistent van Google kan de telefoon opnemen, waarna de woorden van de beller op het scherm worden uitgeschreven. Vervolgens is het mogelijk om te reageren door te typen. De stemassistent leest die tekst dan weer voor.</em></p>\n<p><em>Google demonstreerde ook hoe de stemherkenning van het bedrijf kan worden aangepast voor mensen met een ongebruikelijk stemgeluid, zoals mensen met spierziektes. Op termijn moet het mogelijk worden om de Google Assistant te trainen op het specifieke stemgeluid van een spreker. Mensen met een spraakhandicap kunnen zich op de site van Google <a href=\"https://blog.google/outreach-initiatives/accessibility/impaired-speech-recognition/\" target=\"_blank\" rel=\"noopener noreferrer\">aanmelden</a> om de technologie te verbeteren.</em></p>\n</blockquote>\n<p> </p>",
@@ -39,12 +39,12 @@
             "date_modified": "2019-05-11T16:28:34+02:00"
         },
         {
-            "id": "https://herman-intveen.github.io/march-iv-exoskelet-gepresenteerd.html",
-            "url": "https://herman-intveen.github.io/march-iv-exoskelet-gepresenteerd.html",
+            "id": "https://h-intveen.github.io/march-iv-exoskelet-gepresenteerd.html",
+            "url": "https://h-intveen.github.io/march-iv-exoskelet-gepresenteerd.html",
             "title": "March IV exoskelet gepresenteerd",
             "summary": "Een groep studenten aan de TU Delft heeft een nieuwe versie getoond van een exoskeletontwerp voor dwarslaesiepatiënten. De March IV heeft een lichtere structuur en een heupgewricht, zodat zijwaartse stappen mogelijk zijn. Het ontwerp heeft meer bewegingsvrijheid en betere balans. Volgens de studenten bevat het&hellip;",
             "content_html": "<p class=\"lead\">Een groep studenten aan de TU Delft heeft een nieuwe versie getoond van een exoskeletontwerp voor dwarslaesiepatiënten. De March IV heeft een lichtere structuur en een heupgewricht, zodat zijwaartse stappen mogelijk zijn. Het ontwerp heeft meer bewegingsvrijheid en betere balans.</p>\n<p>Volgens de studenten bevat het nieuwe ontwerp elementen die ervoor zorgen dat <a href=\"https://www.projectmarch.nl/\" rel=\"external noopener noreferrer\" title=\"www.projectmarch.nl - Project MARCH\" target=\"_blank\">het exoskelet</a> 'kan reageren op de omgeving' en de gebruiker meer bewegingsvrijheid geeft. Het team benoemt specifiek het extra heupgewricht. Daarmee kan de gebruiker van het exoskelet een zijwaartse stap maken, naast de voorwaartse stap die al met de vorige versies van de March te zetten was. Deze nieuwe bewegingsvrijheid zou het mogelijk maken om stabieler met twee benen op de grond te staan.</p>\n<p>Om de gebruiksvriendelijkheid van het apparaat te verbeteren heeft het nieuwe apparaat kleinere en lichtere 'botten' en elektronica. Het team heeft hiervoor getest met verschillende materialen. Een kleiner en lichter exoskelet betekent volgens de studenten dat het makkelijker is om aan te trekken en te transporteren.</p>\n<p>Met het exoskeletontwerp kunnen dwarslaesiepatiënten opstaan en lopen. Volgens het team zijn belangrijke wensen van gebruikers het hebben van meer balans en het op langere termijn kunnen lopen zonder krukken. Lopen zonder krukken is met dit ontwerp nog niet mogelijk. Wel moet dit ontwerp zorgen voor meer balans bij toekomstige ontwerpen. Er zitten namelijk druksensoren in de voetzolen van het nieuwe exoskelet. Deze sensoren verzamelen data waarmee onderzoek gedaan kan worden naar 'de mogelijkheden van balans'. Met deze data kan de balans van het apparaat in de komende jaren verder worden verbeterd.</p>\n<p>Voor het ontwerp zijn de 25 studenten ruim zes maanden op vrijwillige basis aan het werk geweest. Ieder jaar is er een nieuw team van TU Delft-studenten dat aan het exoskelet werkt. Deze groep verbetert het ontwerp van de voorgaande groepen. Daarvoor werkt de groep samen met een dwarslaesiepatiënt en experts van de verschillende Sint Maartenskliniek-vestigingen.</p>\n<p>Na de presentatie wordt het exoskelet geproduceerd; naar verwachting is het eind mei klaar. Tot en met de zomer wordt het getest op betrouwbaarheid en gebruiksvriendelijkheid; in augustus van dit jaar wordt het nieuwe prototype getoond. Uiteindelijk vindt in september in Zürich de Cybathlon plaats, een internationale competitie waarbij deelnemers strijden om de titel van het beste exoskelet. Het team zal hier met de March IV ook aan meedoen. Vorig jaar wonnen hun voorgangers met de March III.</p>\n<p>Bron: <a href=\"https://tweakers.net/nieuws/152060/studenten-tu-delft-tonen-nieuwe-versie-exoskelet-met-meer-bewegingsvrijheid.html\">https://tweakers.net/nieuws/152060/studenten-tu-delft-tonen-nieuwe-versie-exoskelet-met-meer-bewegingsvrijheid.html</a> </p>",
-            "image": "https://herman-intveen.github.io/media/posts/39/2002686690.jpg",
+            "image": "https://h-intveen.github.io/media/posts/39/2002686690.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -54,12 +54,12 @@
             "date_modified": "2019-04-26T18:57:06+02:00"
         },
         {
-            "id": "https://herman-intveen.github.io/exoskelet-beweegt-hand.html",
-            "url": "https://herman-intveen.github.io/exoskelet-beweegt-hand.html",
+            "id": "https://h-intveen.github.io/exoskelet-beweegt-hand.html",
+            "url": "https://h-intveen.github.io/exoskelet-beweegt-hand.html",
             "title": "Exoskelet beweegt hand",
             "summary": "Aan de Universieteit van Stuttgart is een exoskelet ontwikkeld waarmee een verlamde hand de vingers kan spreiden en individuele vingers kunnen worden bewogen. De aansturing gebeurt via Elektromyografie (EMG) sensoren die zwakke spieractiviteiten in de onderarm kunnen meten. Dit kan echt echter maar in een beperkt&hellip;",
             "content_html": "Aan de Universieteit van Stuttgart is een exoskelet ontwikkeld waarmee een verlamde hand de vingers kan spreiden en individuele vingers kunnen worden bewogen. De aansturing gebeurt via Elektromyografie (EMG) sensoren die zwakke spieractiviteiten in de onderarm kunnen meten. Dit kan echt echter maar in een beperkt aantal variantenn van een verlamming worden toegepast. Voor de toekomst werken collega's van de universiteitskliniek van Übingen aan de aansluring van zo'n exoskelet door hersenactiviteit bijvoorbeeld in combinatie met oogbewegingen.",
-            "image": "https://herman-intveen.github.io/media/posts/38/tn_Exoskelett_ast_SO.jpg",
+            "image": "https://h-intveen.github.io/media/posts/38/tn_Exoskelett_ast_SO.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -69,12 +69,12 @@
             "date_modified": "2019-03-18T13:13:15+01:00"
         },
         {
-            "id": "https://herman-intveen.github.io/exoskelet-tu-delft.html",
-            "url": "https://herman-intveen.github.io/exoskelet-tu-delft.html",
+            "id": "https://h-intveen.github.io/exoskelet-tu-delft.html",
+            "url": "https://h-intveen.github.io/exoskelet-tu-delft.html",
             "title": "Exoskelet TU Delft",
             "summary": "In 2017/2018 ontwikkelde Project March van de TU Delft de derde versie van een exoskelet dat 14 augustus werd gepresenteerd: de MARCH III. De versies worden steeds beter bruikbaar voor mensen met een dwarslaesie. Wat je als toeschouwer misschien niet weet is dat je met een hogere complete&hellip;",
             "content_html": "<p>In 2017/2018 ontwikkelde <a href=\"https://www.tudelft.nl/d-dream/teams/project-march/\">Project March van de TU Delft</a> de derde versie van een exoskelet dat 14 augustus werd gepresenteerd: de MARCH III. De versies worden steeds beter bruikbaar voor mensen met een dwarslaesie.</p>\n<p>Wat je als toeschouwer misschien niet weet is dat je met een hogere complete dwarslaesie geen rompstabiliteit hebt, je moet tot op schouderhoogte worden ondersteund, waarmee je dan ook alleen je armen hebt om je balans te houden:  Je hebt krukken o.i.d. nodig om je balans te houden, anders ga je languit tegen de vloer Verder moet zo'n pak ook goed vast zitten, met een hoge(re) kans op drukplekken.  Er komt dus nogal wat bij kijken.</p>\n<p>Verbeteringen in MARCHII zijn een actieve enkel, de eerste basis voor een balansmechanisme, variable stapgrootte en extra ondersteuningspunten ter vermindering van decubitus. <a href=\"https://www.youtube.com/watch?v=fd7DyHRDB94&amp;t=1s\">Klik hier voor de video van de MARCHIII</a>.</p>",
-            "image": "https://herman-intveen.github.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg",
+            "image": "https://h-intveen.github.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -84,12 +84,12 @@
             "date_modified": "2019-02-02T13:47:36+01:00"
         },
         {
-            "id": "https://herman-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
-            "url": "https://herman-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
+            "id": "https://h-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
+            "url": "https://h-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
             "title": "Verlamde apen lopen weer dankzij implantaat",
             "summary": "Verlamde apen lopen weer dankzij een implantaat van de École Polytechnique in Lausanne. Klik hier voor het originele artikel (Engelstalig) ",
             "content_html": "Verlamde apen lopen weer dankzij een implantaat van de École Polytechnique in Lausanne.<br><em><a href=\"http://actu.epfl.ch/news/primates-regain-control-of-paralyzed-limb/\">Klik hier voor het originele artikel (Engelstalig) </a></em>",
-            "image": "https://herman-intveen.github.io/media/posts/28/1856x1040.jpg",
+            "image": "https://h-intveen.github.io/media/posts/28/1856x1040.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -99,12 +99,12 @@
             "date_modified": "2019-01-18T18:59:59+01:00"
         },
         {
-            "id": "https://herman-intveen.github.io/robotic-mobilisation-device.html",
-            "url": "https://herman-intveen.github.io/robotic-mobilisation-device.html",
+            "id": "https://h-intveen.github.io/robotic-mobilisation-device.html",
+            "url": "https://h-intveen.github.io/robotic-mobilisation-device.html",
             "title": "Robotic Mobilisation Device",
             "summary": "Met het Robotic Mobilisation Device kan iemand met een complete dwarsleaesie zichzelf rechtstandig verplaatsen. Door het ingenieuze koppelsysteem is dit hulpmiddel geschikt voor zelfstandig gebruik. Levertijd 3 - 5 maanden, de kosten bedragen naar verwachting ca. 25.000 U.S. Dollar. Klik hier voor de homepage met filmpje&hellip;",
             "content_html": "Met het Robotic Mobilisation Device kan iemand met een complete dwarsleaesie zichzelf rechtstandig verplaatsen. Door het ingenieuze koppelsysteem is dit hulpmiddel geschikt voor zelfstandig gebruik.<br>Levertijd 3 - 5 maanden, de kosten bedragen naar verwachting ca. 25.000 U.S. Dollar.<br><em><a href=\"http://www.matiarobotics.com/\">Klik hier voor de homepage met filmpje van het Robotic Mobilisation Device </a></em>",
-            "image": "https://herman-intveen.github.io/media/posts/27/Board_Final-300x324.png",
+            "image": "https://h-intveen.github.io/media/posts/27/Board_Final-300x324.png",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -114,8 +114,8 @@
             "date_modified": "2019-01-18T18:57:34+01:00"
         },
         {
-            "id": "https://herman-intveen.github.io/zing2daagse-2019.html",
-            "url": "https://herman-intveen.github.io/zing2daagse-2019.html",
+            "id": "https://h-intveen.github.io/zing2daagse-2019.html",
+            "url": "https://h-intveen.github.io/zing2daagse-2019.html",
             "title": "Zing2daagse Assen 2019",
             "summary": "Op 18 en 19 januari vindt weer de Zing2Daagse plaats in het ICO gebouw te Assen. Dit keer worden de onderstaande liederen ingestudeerd en gezongen. De uitvoering is op zaterdag 19 januari om 20:30 en 21:10 : ",
             "content_html": "<p>Op 18 en 19 januari vindt weer de Zing2Daagse plaats in het ICO gebouw te Assen.<br>Dit keer worden de  onderstaande liederen ingestudeerd en gezongen. De uitvoering is op zaterdag 19 januari om 20:30 en 21:10 :</p>\n<ul>\n<li>True colours (Cindy Lauper)</li>\n<li>Sleep (Alan Stone)</li>\n<li>De ballade van de moord (Roxanne Hazes &amp; Thijs Boontjes)</li>\n<li>Blame it on the boogie (The Jacksons)</li>\n<li>Pride (U2)</li>\n</ul>\n<p> </p>",
@@ -128,8 +128,8 @@
             "date_modified": "2019-01-18T23:01:51+01:00"
         },
         {
-            "id": "https://herman-intveen.github.io/links.html",
-            "url": "https://herman-intveen.github.io/links.html",
+            "id": "https://h-intveen.github.io/links.html",
+            "url": "https://h-intveen.github.io/links.html",
             "title": "Links",
             "summary": "Buitengewoon ReizenC&amp;A Apartments CyprusDigitale toegankelijkheid web-documentenHandilinks.nlNederlands Keurmerk voor ToegankelijkheidToegankelijk Groningen",
             "content_html": "<ul class=\"weblinks\">\n<li><a href=\"http://www.buitengewoonreizen.nl/\" rel=\"follow\">Buitengewoon Reizen</a></li>\n<li><a href=\"http://www.ca-tourist-apts.com.cy/\" rel=\"follow\">C&amp;A Apartments Cyprus</a></li>\n<li><a href=\"https://www.digitoegankelijk.nl/\" rel=\"follow\">Digitale toegankelijkheid web-documenten</a></li>\n<li><a href=\"http://www.handilinks.nl/\" rel=\"follow\">Handilinks.nl</a></li>\n<li><a href=\"http://www.keurmerktoegankelijkheid.nl/\" rel=\"follow\">Nederlands Keurmerk voor Toegankelijkheid</a></li>\n<li><a href=\"http://www.toegankelijkgroningen.nl/\" rel=\"follow\">Toegankelijk Groningen</a></li>\n</ul>",
@@ -142,8 +142,8 @@
             "date_modified": "2019-01-18T14:37:24+01:00"
         },
         {
-            "id": "https://herman-intveen.github.io/publii-website.html",
-            "url": "https://herman-intveen.github.io/publii-website.html",
+            "id": "https://h-intveen.github.io/publii-website.html",
+            "url": "https://h-intveen.github.io/publii-website.html",
             "title": "Publii website",
             "summary": "In een discussie over website bouw en onderhoud met mijn vriend Albert kreeg ik een goede tip van hem: kijk eens naar Publii. Voor mijn website gebruikte ik tot dan toe Joomla!. Ik had ook wel eens naar Wordpress gekeken, maar dat is ook geen&hellip;",
             "content_html": "<p>In een discussie over website bouw en onderhoud met mijn vriend Albert kreeg ik een goede tip van hem: kijk eens naar <a href=\"https://getpublii.com\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a>. Voor mijn website gebruikte ik tot dan toe <a href=\"https://www.joomla.org\" target=\"_blank\" rel=\"noopener noreferrer\">Joomla!</a>. Ik had ook wel eens naar <a href=\"https://nl.wordpress.com\" target=\"_blank\" rel=\"noopener noreferrer\">Wordpress</a> gekeken, maar dat is ook geen oplossing voor mijn ergernissen:</p>\n<ul>\n<li>Joomla! en Wordpress zijn content management systemen (CMS) bestaande uit open source componenten die regelmatig moeten worden geupdate wegens security problemen. Hierdoor heb ik min of meer verplicht onderhoud aan de site, waar ik niet op zit te wachten.</li>\n<li>Onderhoud van de site kan alleen online, je kunt natuurlijk wel off-0line een stukje maken en dat online kopieeren maar je kunt je site niet off line bekijken.</li>\n<li>De website laadt niet al te vlot, wellicht tengevolge van die CMS (componenten).</li>\n</ul>\n<p>Dus heb ik maar eens naar Publii gekeken en dat is me erg goed bevallen!</p>\n<p>Ik heb het Simple blog style theme gebruikt als basis van de website, dat past goed bij de opzet van mijn site. Voor de blog comments heb ik Disqus gebruikt dat out-of-the-box door Publii wordt ondersteund: alleen even de Disqus  naam invullen!<br>Alleen stond het mij niet aan dat ook de home page blog style was, dus daarvoor heb ik wat moeten tweaken. Op <a href=\"https://publii.ticksy.com/ticket/1198491/\">https://publii.ticksy.com/ticket/1198491/</a>  vond ik een blog met hints hoe je dat kan doen. Dat blijkt helemaal niet zo moeilijk, want de opmaak van het thema  site wordt bepaald, en kun je dus aanpassen door de files in de MacOs folder Documents\\Publii\\sites\\&lt;website&gt;\\input\\themes\\Simple. De opmaak van de home page wordt door Index.hbs bepaald. Ik heb de datum en navigatie uit de index.hbs file verwijderd en de inhoud uit de post.hbs file gebruikt, daardoor komt het nieuwste artikel op de home page. Dus alleen nog de datum van mijn home page artikel op 2030 te gezet.<br>Verder heb ik ook nog wat geknutseld aan de title van een tag pagina, daar stond \"Tag: ...\" en dat vind ik niet mooi. Na even zoeken bleek dat in de input\\config\\site.config.json file te staan, dus ook even aangepast. <br>Kortom: Even puzzelen en je bent klaar!</p>\n<p>Daarmee heb je een razendsnelle site zonder gedoe met uitstekende off-line editing functionaliteit: wat wil je nog meer? Er is een Wordpress importeer tool, maar anders ben je met wat knippen en plakken ook zo over en aangenaam verrast......</p>",
