@@ -3,7 +3,7 @@
     <title>Wheelies.nl</title>
     <link href="https://h-intveen.github.io/feed.xml" rel="self" />
     <link href="https://h-intveen.github.io" />
-    <updated>2019-10-11T18:20:30+02:00</updated>
+    <updated>2019-10-21T21:40:24+02:00</updated>
     <author>
         <name>Herman in &#x27;t Veen</name>
     </author>
@@ -17,16 +17,18 @@
         <link href="https://h-intveen.github.io/presentaties.html"/>
         <id>https://h-intveen.github.io/presentaties.html</id>
 
-        <updated>2019-10-11T18:16:56+02:00</updated>
+        <updated>2019-10-21T21:40:14+02:00</updated>
             <summary>
                 <![CDATA[
-                    Toegankelijkheid 26-09-2019 VeendamAdviseur Toegankelijkheid documentatie Toegankelijk Groningen websiteSporthal Europapark - December 2018Toegankelijk Groningen op Lets Gro 2018
+                    Inspiratiesessie 06-11-2019 Midden GroningenToegankelijkheid 26-09-2019 VeendamGebruik website Toegankelijk GroningenAdviseur Toegankelijkheid documentatie Toegankelijk Groningen websiteSporthal Europapark - December 2018Toegankelijk Groningen op Lets Gro 2018
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <ul class="weblinks">
+<li><a href="https://h-intveen.github.io/TG20191106">Inspiratiesessie 06-11-2019 Midden Groningen</a></li>
 <li><a href="https://h-intveen.github.io/TG20190926">Toegankelijkheid 26-09-2019 Veendam</a></li>
+<li><a href="https://h-intveen.github.io/TGwebsite/">Gebruik website Toegankelijk Groningen</a></li>
 <li><a href="https://h-intveen.gitlab.io/tgwebsiteadviseur">Adviseur Toegankelijkheid documentatie Toegankelijk Groningen website</a></li>
 <li><a href="../media/files/Sporthal_Europapark_keuring.pdf">Sporthal Europapark - December 2018</a></li>
 <li><a href="../media/files/Toegankelijk_Groningen_op_Lets_Gro.pdf">Toegankelijk Groningen op Lets Gro 2018</a></li>
