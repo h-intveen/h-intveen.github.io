@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Wheelies.nl</title>
-    <link href="https://h-intveen.gitlhub.io/feed.xml" rel="self" />
-    <link href="https://h-intveen.gitlhub.io" />
-    <updated>2019-11-10T14:35:39+01:00</updated>
+    <link href="https://h-intveen.github.io/feed.xml" rel="self" />
+    <link href="https://h-intveen.github.io" />
+    <updated>2019-11-11T18:54:07+01:00</updated>
     <author>
         <name>Herman in &#x27;t Veen</name>
     </author>
-    <id>https://h-intveen.gitlhub.io</id>
+    <id>https://h-intveen.github.io</id>
 
     <entry>
         <title>Presentaties</title>
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/presentaties.html"/>
-        <id>https://h-intveen.gitlhub.io/presentaties.html</id>
+        <link href="https://h-intveen.github.io/presentaties.html"/>
+        <id>https://h-intveen.github.io/presentaties.html</id>
 
         <updated>2019-10-21T21:40:14+02:00</updated>
             <summary>
@@ -41,19 +41,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/zwaar-pak-om-sneller-te-rennen.html"/>
-        <id>https://h-intveen.gitlhub.io/zwaar-pak-om-sneller-te-rennen.html</id>
+        <link href="https://h-intveen.github.io/zwaar-pak-om-sneller-te-rennen.html"/>
+        <id>https://h-intveen.github.io/zwaar-pak-om-sneller-te-rennen.html</id>
 
         <updated>2019-08-31T15:58:37+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/44/Exoskelet-305b91.jpg" alt="Principe exoskelet scvhematisch in beeld" />
+                        <img src="https://h-intveen.github.io/media/posts/44/Exoskelet-305b91.jpg" alt="Principe exoskelet scvhematisch in beeld" />
                     Exoskeletten worden steeds gangbaarder als ondersteuning. In dit NRC artikel is sprake van een nieuw zacht exoskelet van zo'n 5 kilo. dat je je tijdens het lopen het gevoel geeft 7,4 kilo en tijdens het rennen 5,7 kilo minder met je mee te dragen. De winst&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/44/Exoskelet-305b91.jpg" alt="Principe exoskelet scvhematisch in beeld" />
+                    <img src="https://h-intveen.github.io/media/posts/44/Exoskelet-305b91.jpg" alt="Principe exoskelet scvhematisch in beeld" />
                 Exoskeletten worden steeds gangbaarder als ondersteuning. <a href="https://www.nrc.nl/nieuws/2019/08/15/zwaar-pak-om-sneller-te-rennen-a3970198">In dit NRC artikel</a> is sprake van een nieuw zacht exoskelet van zo'n 5 kilo. dat je je tijdens het lopen het gevoel geeft 7,4 kilo en tijdens het rennen 5,7 kilo minder met je mee te dragen. De winst is nog maar klein en de waarden gelden voor een vlak terrein, maar er worden letterlijk en figuurlijk stappen gezet.
             ]]>
         </content>
@@ -63,19 +63,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html"/>
-        <id>https://h-intveen.gitlhub.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html</id>
+        <link href="https://h-intveen.github.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html"/>
+        <id>https://h-intveen.github.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html</id>
 
         <updated>2019-08-28T20:32:55+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/43/handtracking_shot.png" alt="Tracking van handgebaren" />
+                        <img src="https://h-intveen.github.io/media/posts/43/handtracking_shot.png" alt="Tracking van handgebaren" />
                     Wat als je handgebaren uit gebarentaal zou kunnen omzetten naar gesproken tekst? Google lijkt een hele sterke stap te hebben gezet door software te ontwikkelen die je kunt gebruiken vanaf je smartphone én die gebarentaal omzet in gesproken tekst. En dat is erg knap. Handbewegingen&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/43/handtracking_shot.png" alt="Tracking van handgebaren" />
+                    <img src="https://h-intveen.github.io/media/posts/43/handtracking_shot.png" alt="Tracking van handgebaren" />
                 <div class="revue-p">Wat als je handgebaren uit gebarentaal zou kunnen omzetten naar gesproken tekst? Google lijkt een hele sterke stap te hebben gezet door software te ontwikkelen die je kunt gebruiken vanaf je smartphone én die gebarentaal omzet in gesproken tekst. En dat is erg knap. Handbewegingen zijn vaak heel snel, subtiel of allebei. Ook beoogt dit systeem om beide handen tegelijkertijd te kunnen analyseren.</div>
 <div class="revue-p">Nog wel even goed om te vermelden: De onderzoekers hebben 30.000 plaatjes van handen handmatig (woordgrapje) moeten labelen om zo het kunstmatig intelligent systeem te laten snappen wat er gebeurt.</div>
 <div class="revue-p">De software is overigens nog niet “klaar” voor gebruik. Er moet nog veel werk gedaan worden om gebarentaal betrouwbaar te vertalen in gesproken taal. Sommige gebaren zijn bijvoorbeeld ook gekoppeld aan een gezichtsuitdrukking en bewegingen van het lijf. Maar … een veelbelovend project!</div>
@@ -87,8 +87,8 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html"/>
-        <id>https://h-intveen.gitlhub.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html</id>
+        <link href="https://h-intveen.github.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html"/>
+        <id>https://h-intveen.github.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html</id>
 
         <updated>2019-08-25T19:27:35+02:00</updated>
             <summary>
@@ -108,19 +108,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html"/>
-        <id>https://h-intveen.gitlhub.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html</id>
+        <link href="https://h-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html"/>
+        <id>https://h-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html</id>
 
         <updated>2019-05-24T21:20:20+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/41/HyQReal.jpg" alt="" />
+                        <img src="https://h-intveen.github.io/media/posts/41/HyQReal.jpg" alt="" />
                     In deze video op CNet.com is een sterk staaltje robottechniek te zien..... De HyQReal robot is ontworpen door researchers van Istituto Italiano di Tecnologia (IIT). Oorspronkelijk doel is om mensen bij rampen, dus in noodsituaties, te helpen.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/41/HyQReal.jpg" alt="" />
+                    <img src="https://h-intveen.github.io/media/posts/41/HyQReal.jpg" alt="" />
                 In <a href="https://youtu.be/pLsNs1ZS_TI">deze video op CNet.com</a> is een sterk staaltje robottechniek te zien.....<br>De HyQReal robot is ontworpen door researchers van Istituto Italiano di Tecnologia (IIT). Oorspronkelijk doel is om mensen bij rampen, dus in noodsituaties, te helpen.
             ]]>
         </content>
@@ -130,8 +130,8 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/google-presenteert-liveondertiteling.html"/>
-        <id>https://h-intveen.gitlhub.io/google-presenteert-liveondertiteling.html</id>
+        <link href="https://h-intveen.github.io/google-presenteert-liveondertiteling.html"/>
+        <id>https://h-intveen.github.io/google-presenteert-liveondertiteling.html</id>
 
         <updated>2019-05-11T16:28:34+02:00</updated>
             <summary>
@@ -162,19 +162,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/march-iv-exoskelet-gepresenteerd.html"/>
-        <id>https://h-intveen.gitlhub.io/march-iv-exoskelet-gepresenteerd.html</id>
+        <link href="https://h-intveen.github.io/march-iv-exoskelet-gepresenteerd.html"/>
+        <id>https://h-intveen.github.io/march-iv-exoskelet-gepresenteerd.html</id>
 
         <updated>2019-08-20T15:50:46+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/39/2002686690.jpg" alt="Foto exoskelet March4" />
+                        <img src="https://h-intveen.github.io/media/posts/39/2002686690.jpg" alt="Foto exoskelet March4" />
                     Het studententeam van TU Delft heeft de vierde versie van het March-exoskelet waarmee een dwarslaesiepatiënt kan opstaan en kan lopen gedemonstreerd. De March IV biedt meer bewegingsvrijheid en stabiliteit omdat nu ook een zijwaartse pas mogelijk is. Het nieuwe apparaat is kleiner en lichter waardoor het makkelijker&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/39/2002686690.jpg" alt="Foto exoskelet March4" />
+                    <img src="https://h-intveen.github.io/media/posts/39/2002686690.jpg" alt="Foto exoskelet March4" />
                 <p class="lead">Het studententeam van TU Delft heeft de vierde versie van het March-exoskelet waarmee een dwarslaesiepatiënt kan opstaan en kan lopen gedemonstreerd. De March IV biedt meer bewegingsvrijheid en stabiliteit omdat nu ook een zijwaartse pas mogelijk is. Het nieuwe apparaat is kleiner en lichter waardoor het makkelijker is om aan te trekken en te transporteren.</p>
 <p> Het nieuwe prototype heeft een extra heupgewricht wat zijwaartse beweging mogelijk maakt. Bij vorige versies was het alleen mogelijk om vooruit te lopen. Ook staat de drager van het exoskelet door de toevoeging van het nieuwe gewricht stabieler op de grond. De huidige versie werkt nog met een bedrade afstandsbediening die in een kruk is verwerkt. Het studententeam wil die draadloos maken</p>
 <p>Met het exoskeletontwerp kunnen dwarslaesiepatiënten opstaan en lopen. Volgens het team zijn belangrijke wensen van gebruikers het hebben van meer balans en het op langere termijn kunnen lopen zonder krukken. Lopen zonder krukken is met dit ontwerp nog niet mogelijk. Wel moet dit ontwerp zorgen voor meer balans bij toekomstige ontwerpen. Er zitten namelijk druksensoren in de voetzolen van het nieuwe exoskelet. Deze sensoren verzamelen data waarmee onderzoek gedaan kan worden naar 'de mogelijkheden van balans'. Met deze data kan de balans van het apparaat in de komende jaren verder worden verbeterd.</p>
@@ -188,19 +188,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/exoskelet-beweegt-hand.html"/>
-        <id>https://h-intveen.gitlhub.io/exoskelet-beweegt-hand.html</id>
+        <link href="https://h-intveen.github.io/exoskelet-beweegt-hand.html"/>
+        <id>https://h-intveen.github.io/exoskelet-beweegt-hand.html</id>
 
         <updated>2019-03-18T13:13:15+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/38/tn_Exoskelett_ast_SO.jpg" alt="Foto&#x27;s exoskelet" />
+                        <img src="https://h-intveen.github.io/media/posts/38/tn_Exoskelett_ast_SO.jpg" alt="Foto&#x27;s exoskelet" />
                     Aan de Universieteit van Stuttgart is een exoskelet ontwikkeld waarmee een verlamde hand de vingers kan spreiden en individuele vingers kunnen worden bewogen. De aansturing gebeurt via Elektromyografie (EMG) sensoren die zwakke spieractiviteiten in de onderarm kunnen meten. Dit kan echt echter maar in een beperkt&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/38/tn_Exoskelett_ast_SO.jpg" alt="Foto&#x27;s exoskelet" />
+                    <img src="https://h-intveen.github.io/media/posts/38/tn_Exoskelett_ast_SO.jpg" alt="Foto&#x27;s exoskelet" />
                 Aan de Universieteit van Stuttgart is een exoskelet ontwikkeld waarmee een verlamde hand de vingers kan spreiden en individuele vingers kunnen worden bewogen. De aansturing gebeurt via Elektromyografie (EMG) sensoren die zwakke spieractiviteiten in de onderarm kunnen meten. Dit kan echt echter maar in een beperkt aantal variantenn van een verlamming worden toegepast. Voor de toekomst werken collega's van de universiteitskliniek van Übingen aan de aansluring van zo'n exoskelet door hersenactiviteit bijvoorbeeld in combinatie met oogbewegingen.
             ]]>
         </content>
@@ -210,19 +210,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/exoskelet-tu-delft.html"/>
-        <id>https://h-intveen.gitlhub.io/exoskelet-tu-delft.html</id>
+        <link href="https://h-intveen.github.io/exoskelet-tu-delft.html"/>
+        <id>https://h-intveen.github.io/exoskelet-tu-delft.html</id>
 
         <updated>2019-02-02T13:47:36+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg" alt="" />
+                        <img src="https://h-intveen.github.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg" alt="" />
                     In 2017/2018 ontwikkelde Project March van de TU Delft de derde versie van een exoskelet dat 14 augustus werd gepresenteerd: de MARCH III. De versies worden steeds beter bruikbaar voor mensen met een dwarslaesie. Wat je als toeschouwer misschien niet weet is dat je met een hogere complete&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg" alt="" />
+                    <img src="https://h-intveen.github.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg" alt="" />
                 <p>In 2017/2018 ontwikkelde <a href="https://www.tudelft.nl/d-dream/teams/project-march/">Project March van de TU Delft</a> de derde versie van een exoskelet dat 14 augustus werd gepresenteerd: de MARCH III. De versies worden steeds beter bruikbaar voor mensen met een dwarslaesie.</p>
 <p>Wat je als toeschouwer misschien niet weet is dat je met een hogere complete dwarslaesie geen rompstabiliteit hebt, je moet tot op schouderhoogte worden ondersteund, waarmee je dan ook alleen je armen hebt om je balans te houden:  Je hebt krukken o.i.d. nodig om je balans te houden, anders ga je languit tegen de vloer Verder moet zo'n pak ook goed vast zitten, met een hoge(re) kans op drukplekken.  Er komt dus nogal wat bij kijken.</p>
 <p>Verbeteringen in MARCHII zijn een actieve enkel, de eerste basis voor een balansmechanisme, variable stapgrootte en extra ondersteuningspunten ter vermindering van decubitus. <a href="https://www.youtube.com/watch?v=fd7DyHRDB94&amp;t=1s">Klik hier voor de video van de MARCHIII</a>.</p>
@@ -234,19 +234,19 @@
         <author>
             <name>Herman in &#x27;t Veen</name>
         </author>
-        <link href="https://h-intveen.gitlhub.io/verlamde-apen-lopen-weer-dankzij-implantaat.html"/>
-        <id>https://h-intveen.gitlhub.io/verlamde-apen-lopen-weer-dankzij-implantaat.html</id>
+        <link href="https://h-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html"/>
+        <id>https://h-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html</id>
 
         <updated>2019-01-18T18:59:59+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://h-intveen.gitlhub.io/media/posts/28/1856x1040.jpg" alt="" />
+                        <img src="https://h-intveen.github.io/media/posts/28/1856x1040.jpg" alt="" />
                     Verlamde apen lopen weer dankzij een implantaat van de École Polytechnique in Lausanne. Klik hier voor het originele artikel (Engelstalig) 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://h-intveen.gitlhub.io/media/posts/28/1856x1040.jpg" alt="" />
+                    <img src="https://h-intveen.github.io/media/posts/28/1856x1040.jpg" alt="" />
                 Verlamde apen lopen weer dankzij een implantaat van de École Polytechnique in Lausanne.<br><em><a href="http://actu.epfl.ch/news/primates-regain-control-of-paralyzed-limb/">Klik hier voor het originele artikel (Engelstalig) </a></em>
             ]]>
         </content>

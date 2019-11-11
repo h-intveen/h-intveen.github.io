@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Wheelies.nl",
     "description": "",
-    "home_page_url": "https://h-intveen.gitlhub.io",
-    "feed_url": "https://h-intveen.gitlhub.io/feed.json",
+    "home_page_url": "https://h-intveen.github.io",
+    "feed_url": "https://h-intveen.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Herman in &#x27;t Veen"
     },
     "items": [
         {
-            "id": "https://h-intveen.gitlhub.io/presentaties.html",
-            "url": "https://h-intveen.gitlhub.io/presentaties.html",
+            "id": "https://h-intveen.github.io/presentaties.html",
+            "url": "https://h-intveen.github.io/presentaties.html",
             "title": "Presentaties",
             "summary": "Inspiratiesessie 06-11-2019 Midden GroningenToegankelijkheid 26-09-2019 VeendamGebruik website Toegankelijk GroningenAdviseur Toegankelijkheid documentatie Toegankelijk Groningen websiteSporthal Europapark - December 2018Toegankelijk Groningen op Lets Gro 2018",
             "content_html": "<ul class=\"weblinks\">\n<li><a href=\"https://h-intveen.github.io/TG20191106\">Inspiratiesessie 06-11-2019 Midden Groningen</a></li>\n<li><a href=\"https://h-intveen.github.io/TG20190926\">Toegankelijkheid 26-09-2019 Veendam</a></li>\n<li><a href=\"https://h-intveen.github.io/TGwebsite/\">Gebruik website Toegankelijk Groningen</a></li>\n<li><a href=\"https://h-intveen.gitlab.io/tgwebsiteadviseur\">Adviseur Toegankelijkheid documentatie Toegankelijk Groningen website</a></li>\n<li><a href=\"../media/files/Sporthal_Europapark_keuring.pdf\">Sporthal Europapark - December 2018</a></li>\n<li><a href=\"../media/files/Toegankelijk_Groningen_op_Lets_Gro.pdf\">Toegankelijk Groningen op Lets Gro 2018</a></li>\n</ul>",
@@ -24,12 +24,12 @@
             "date_modified": "2019-10-21T21:40:14+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/zwaar-pak-om-sneller-te-rennen.html",
-            "url": "https://h-intveen.gitlhub.io/zwaar-pak-om-sneller-te-rennen.html",
+            "id": "https://h-intveen.github.io/zwaar-pak-om-sneller-te-rennen.html",
+            "url": "https://h-intveen.github.io/zwaar-pak-om-sneller-te-rennen.html",
             "title": "Zwaar pak om sneller te rennen",
             "summary": "Exoskeletten worden steeds gangbaarder als ondersteuning. In dit NRC artikel is sprake van een nieuw zacht exoskelet van zo'n 5 kilo. dat je je tijdens het lopen het gevoel geeft 7,4 kilo en tijdens het rennen 5,7 kilo minder met je mee te dragen. De winst&hellip;",
             "content_html": "Exoskeletten worden steeds gangbaarder als ondersteuning. <a href=\"https://www.nrc.nl/nieuws/2019/08/15/zwaar-pak-om-sneller-te-rennen-a3970198\">In dit NRC artikel</a> is sprake van een nieuw zacht exoskelet van zo'n 5 kilo. dat je je tijdens het lopen het gevoel geeft 7,4 kilo en tijdens het rennen 5,7 kilo minder met je mee te dragen. De winst is nog maar klein en de waarden gelden voor een vlak terrein, maar er worden letterlijk en figuurlijk stappen gezet.",
-            "image": "https://h-intveen.gitlhub.io/media/posts/44/Exoskelet-305b91.jpg",
+            "image": "https://h-intveen.github.io/media/posts/44/Exoskelet-305b91.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -39,12 +39,12 @@
             "date_modified": "2019-08-31T15:58:37+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html",
-            "url": "https://h-intveen.gitlhub.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html",
+            "id": "https://h-intveen.github.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html",
+            "url": "https://h-intveen.github.io/handgebaren-uit-gebarentaal-omzetten-naar-gesproken-tekst.html",
             "title": "Handgebaren uit gebarentaal omzetten naar gesproken tekst?",
             "summary": "Wat als je handgebaren uit gebarentaal zou kunnen omzetten naar gesproken tekst? Google lijkt een hele sterke stap te hebben gezet door software te ontwikkelen die je kunt gebruiken vanaf je smartphone én die gebarentaal omzet in gesproken tekst. En dat is erg knap. Handbewegingen&hellip;",
             "content_html": "<div class=\"revue-p\">Wat als je handgebaren uit gebarentaal zou kunnen omzetten naar gesproken tekst? Google lijkt een hele sterke stap te hebben gezet door software te ontwikkelen die je kunt gebruiken vanaf je smartphone én die gebarentaal omzet in gesproken tekst. En dat is erg knap. Handbewegingen zijn vaak heel snel, subtiel of allebei. Ook beoogt dit systeem om beide handen tegelijkertijd te kunnen analyseren.</div>\n<div class=\"revue-p\">Nog wel even goed om te vermelden: De onderzoekers hebben 30.000 plaatjes van handen handmatig (woordgrapje) moeten labelen om zo het kunstmatig intelligent systeem te laten snappen wat er gebeurt.</div>\n<div class=\"revue-p\">De software is overigens nog niet “klaar” voor gebruik. Er moet nog veel werk gedaan worden om gebarentaal betrouwbaar te vertalen in gesproken taal. Sommige gebaren zijn bijvoorbeeld ook gekoppeld aan een gezichtsuitdrukking en bewegingen van het lijf. Maar … een veelbelovend project!</div>",
-            "image": "https://h-intveen.gitlhub.io/media/posts/43/handtracking_shot.png",
+            "image": "https://h-intveen.github.io/media/posts/43/handtracking_shot.png",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -54,8 +54,8 @@
             "date_modified": "2019-08-28T20:32:55+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html",
-            "url": "https://h-intveen.gitlhub.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html",
+            "id": "https://h-intveen.github.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html",
+            "url": "https://h-intveen.github.io/hoe-een-exoskelet-jou-naar-je-pensioen-brengt.html",
             "title": "Hoe een exoskelet jou naar je pensioen brengt",
             "summary": "Een exoskelet kan helpen bij zwaar/vermoeiend werk en dat kan met verassend eenvoudige techniek! Dit artikel van Nieuwsuur laat zien dat werk met een zware machine boven je hoofd goed kan met ondersteuning van een exoskelet. Een oplossing voor werknemers met zware beroepen: veel gewicht of langdurig&hellip;",
             "content_html": "<p>Een exoskelet kan helpen bij zwaar/vermoeiend werk en dat kan met verassend eenvoudige techniek! <a href=\"https://nos.nl/nieuwsuur/artikel/2297846-hoe-een-exoskelet-jou-naar-je-pensioen-helpt.html\">Dit artikel van Nieuwsuur</a> laat zien dat werk met een zware machine boven je hoofd goed kan met ondersteuning van een exoskelet.</p>\n<p>Een oplossing voor werknemers met zware beroepen: veel gewicht of langdurig herhaalde bewegingen. De technologie hiervoor is er al. <iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/y3x7EesFoec\" allowfullscreen=\"allowfullscreen\" ></iframe></p>",
@@ -68,12 +68,12 @@
             "date_modified": "2019-08-25T19:27:35+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
-            "url": "https://h-intveen.gitlhub.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
+            "id": "https://h-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
+            "url": "https://h-intveen.github.io/robothond-versleept-vliegtuig-van-3300-kilo-in-italie.html",
             "title": "Robothond versleept vliegtuig van 3300 kilo in Italië",
             "summary": "In deze video op CNet.com is een sterk staaltje robottechniek te zien..... De HyQReal robot is ontworpen door researchers van Istituto Italiano di Tecnologia (IIT). Oorspronkelijk doel is om mensen bij rampen, dus in noodsituaties, te helpen.",
             "content_html": "In <a href=\"https://youtu.be/pLsNs1ZS_TI\">deze video op CNet.com</a> is een sterk staaltje robottechniek te zien.....<br>De HyQReal robot is ontworpen door researchers van Istituto Italiano di Tecnologia (IIT). Oorspronkelijk doel is om mensen bij rampen, dus in noodsituaties, te helpen.",
-            "image": "https://h-intveen.gitlhub.io/media/posts/41/HyQReal.jpg",
+            "image": "https://h-intveen.github.io/media/posts/41/HyQReal.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -83,8 +83,8 @@
             "date_modified": "2019-05-24T21:20:20+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/google-presenteert-liveondertiteling.html",
-            "url": "https://h-intveen.gitlhub.io/google-presenteert-liveondertiteling.html",
+            "id": "https://h-intveen.github.io/google-presenteert-liveondertiteling.html",
+            "url": "https://h-intveen.github.io/google-presenteert-liveondertiteling.html",
             "title": "Google presenteert liveondertiteling",
             "summary": "Over onderstaand artkel is nu inmiddels meer nieuws verschenen op Nu.nl. Enkele quotes uit dit artikel: Voor doven en slechthorenden zijn de meeste functies van smartphones goed te gebruiken, maar telefoneren en de consumptie van media met geluid kunnen nog altijd een obstakel vormen. Met&hellip;",
             "content_html": "<p>Over onderstaand artkel is nu inmiddels <a href=\"https://www.nu.nl/mobiel/5886102/zo-maakt-google-toegankelijkheidsopties-nuttig-voor-iedereen.html\">meer nieuws verschenen op Nu.nl</a>. Enkele quotes uit dit artikel:</p>\n<blockquote>\n<p>Voor doven en slechthorenden zijn de meeste functies van smartphones goed te gebruiken, maar telefoneren en de consumptie van media met geluid kunnen nog altijd een obstakel vormen. Met de snelle verbetering van spraak-naar-tekst-technologie begint daar verandering in te komen.</p>\n<p>Later dit jaar zal het op de nieuwste Pixel-telefoons van Google mogelijk worden om liveondertiteling aan te zetten bij alle video's en geluidsbestanden</p>\n<p>Omdat de ondertiteling geheel op het apparaat plaatsvindt, verschijnen teksten zodra ze zijn uitgesproken bijna zonder vertraging. De functie werkt ook offline, bijvoorbeeld met podcasts die al eerder zijn gedownload. Nadeel van de offlineverwerking is dat hiervoor een taalmodel naar de smartphone moet worden gedownload. Voorlopig is alleen voor het Engels zo'n model beschikbaar, dus Nederlanders zullen nog even op de functie moeten wachten.</p>\n</blockquote>\n<p>In <a href=\"https://www.nu.nl/internet/5879964/google-presenteert-liveondertiteling-en-android-q-krijgt-focusmodus.html\">dit artilkel op NU.nl </a>is sprake van Live Caption: liveondertiteling voor slechthorenden:</p>\n<blockquote>\n<p><em>Met de functie Live Caption wordt het ook mogelijk om liveondertiteling te zien bij alles wat op een Android-smartphone gebeurt. Video's, podcasts en andere media met spraak worden op het scherm ondertiteld. Dat moet het voor doven en slechthorenden makkelijker maken om hun smartphone te gebruiken.</em></p>\n<p><em>Het wordt voor hen ook mogelijk om te telefoneren zonder geluid of spraak. De stemassistent van Google kan de telefoon opnemen, waarna de woorden van de beller op het scherm worden uitgeschreven. Vervolgens is het mogelijk om te reageren door te typen. De stemassistent leest die tekst dan weer voor.</em></p>\n<p><em>Google demonstreerde ook hoe de stemherkenning van het bedrijf kan worden aangepast voor mensen met een ongebruikelijk stemgeluid, zoals mensen met spierziektes. Op termijn moet het mogelijk worden om de Google Assistant te trainen op het specifieke stemgeluid van een spreker. Mensen met een spraakhandicap kunnen zich op de site van Google <a href=\"https://blog.google/outreach-initiatives/accessibility/impaired-speech-recognition/\" target=\"_blank\" rel=\"noopener noreferrer\">aanmelden</a> om de technologie te verbeteren.</em></p>\n</blockquote>\n<p> </p>",
@@ -97,12 +97,12 @@
             "date_modified": "2019-05-11T16:28:34+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/march-iv-exoskelet-gepresenteerd.html",
-            "url": "https://h-intveen.gitlhub.io/march-iv-exoskelet-gepresenteerd.html",
+            "id": "https://h-intveen.github.io/march-iv-exoskelet-gepresenteerd.html",
+            "url": "https://h-intveen.github.io/march-iv-exoskelet-gepresenteerd.html",
             "title": "March IV exoskelet gedemonstreerd",
             "summary": "Het studententeam van TU Delft heeft de vierde versie van het March-exoskelet waarmee een dwarslaesiepatiënt kan opstaan en kan lopen gedemonstreerd. De March IV biedt meer bewegingsvrijheid en stabiliteit omdat nu ook een zijwaartse pas mogelijk is. Het nieuwe apparaat is kleiner en lichter waardoor het makkelijker&hellip;",
             "content_html": "<p class=\"lead\">Het studententeam van TU Delft heeft de vierde versie van het March-exoskelet waarmee een dwarslaesiepatiënt kan opstaan en kan lopen gedemonstreerd. De March IV biedt meer bewegingsvrijheid en stabiliteit omdat nu ook een zijwaartse pas mogelijk is. Het nieuwe apparaat is kleiner en lichter waardoor het makkelijker is om aan te trekken en te transporteren.</p>\n<p> Het nieuwe prototype heeft een extra heupgewricht wat zijwaartse beweging mogelijk maakt. Bij vorige versies was het alleen mogelijk om vooruit te lopen. Ook staat de drager van het exoskelet door de toevoeging van het nieuwe gewricht stabieler op de grond. De huidige versie werkt nog met een bedrade afstandsbediening die in een kruk is verwerkt. Het studententeam wil die draadloos maken</p>\n<p>Met het exoskeletontwerp kunnen dwarslaesiepatiënten opstaan en lopen. Volgens het team zijn belangrijke wensen van gebruikers het hebben van meer balans en het op langere termijn kunnen lopen zonder krukken. Lopen zonder krukken is met dit ontwerp nog niet mogelijk. Wel moet dit ontwerp zorgen voor meer balans bij toekomstige ontwerpen. Er zitten namelijk druksensoren in de voetzolen van het nieuwe exoskelet. Deze sensoren verzamelen data waarmee onderzoek gedaan kan worden naar 'de mogelijkheden van balans'. Met deze data kan de balans van het apparaat in de komende jaren verder worden verbeterd.</p>\n<p>Voor het ontwerp zijn de 25 studenten ruim zes maanden op vrijwillige basis aan het werk geweest. Ieder jaar is er een nieuw team van TU Delft-studenten dat aan het exoskelet werkt. Deze groep verbetert het ontwerp van de voorgaande groepen. Daarvoor werkt de groep samen met een dwarslaesiepatiënt en experts van de verschillende Sint Maartenskliniek-vestigingen.</p>\n<p>Bron: <a href=\"https://tweakers.net/nieuws/156014/studenten-tu-delft-demonstreren-vierde-versie-exoskelet-voor-dwarslaesiepatient.html\">https://tweakers.net/nieuws/152060/studenten-tu-delft-tonen-nieuwe-versie-exoskelet-met-meer-bewegingsvrijheid.html </a></p>",
-            "image": "https://h-intveen.gitlhub.io/media/posts/39/2002686690.jpg",
+            "image": "https://h-intveen.github.io/media/posts/39/2002686690.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -112,12 +112,12 @@
             "date_modified": "2019-08-20T15:50:46+02:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/exoskelet-beweegt-hand.html",
-            "url": "https://h-intveen.gitlhub.io/exoskelet-beweegt-hand.html",
+            "id": "https://h-intveen.github.io/exoskelet-beweegt-hand.html",
+            "url": "https://h-intveen.github.io/exoskelet-beweegt-hand.html",
             "title": "Exoskelet beweegt hand",
             "summary": "Aan de Universieteit van Stuttgart is een exoskelet ontwikkeld waarmee een verlamde hand de vingers kan spreiden en individuele vingers kunnen worden bewogen. De aansturing gebeurt via Elektromyografie (EMG) sensoren die zwakke spieractiviteiten in de onderarm kunnen meten. Dit kan echt echter maar in een beperkt&hellip;",
             "content_html": "Aan de Universieteit van Stuttgart is een exoskelet ontwikkeld waarmee een verlamde hand de vingers kan spreiden en individuele vingers kunnen worden bewogen. De aansturing gebeurt via Elektromyografie (EMG) sensoren die zwakke spieractiviteiten in de onderarm kunnen meten. Dit kan echt echter maar in een beperkt aantal variantenn van een verlamming worden toegepast. Voor de toekomst werken collega's van de universiteitskliniek van Übingen aan de aansluring van zo'n exoskelet door hersenactiviteit bijvoorbeeld in combinatie met oogbewegingen.",
-            "image": "https://h-intveen.gitlhub.io/media/posts/38/tn_Exoskelett_ast_SO.jpg",
+            "image": "https://h-intveen.github.io/media/posts/38/tn_Exoskelett_ast_SO.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -127,12 +127,12 @@
             "date_modified": "2019-03-18T13:13:15+01:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/exoskelet-tu-delft.html",
-            "url": "https://h-intveen.gitlhub.io/exoskelet-tu-delft.html",
+            "id": "https://h-intveen.github.io/exoskelet-tu-delft.html",
+            "url": "https://h-intveen.github.io/exoskelet-tu-delft.html",
             "title": "Exoskelet TU Delft",
             "summary": "In 2017/2018 ontwikkelde Project March van de TU Delft de derde versie van een exoskelet dat 14 augustus werd gepresenteerd: de MARCH III. De versies worden steeds beter bruikbaar voor mensen met een dwarslaesie. Wat je als toeschouwer misschien niet weet is dat je met een hogere complete&hellip;",
             "content_html": "<p>In 2017/2018 ontwikkelde <a href=\"https://www.tudelft.nl/d-dream/teams/project-march/\">Project March van de TU Delft</a> de derde versie van een exoskelet dat 14 augustus werd gepresenteerd: de MARCH III. De versies worden steeds beter bruikbaar voor mensen met een dwarslaesie.</p>\n<p>Wat je als toeschouwer misschien niet weet is dat je met een hogere complete dwarslaesie geen rompstabiliteit hebt, je moet tot op schouderhoogte worden ondersteund, waarmee je dan ook alleen je armen hebt om je balans te houden:  Je hebt krukken o.i.d. nodig om je balans te houden, anders ga je languit tegen de vloer Verder moet zo'n pak ook goed vast zitten, met een hoge(re) kans op drukplekken.  Er komt dus nogal wat bij kijken.</p>\n<p>Verbeteringen in MARCHII zijn een actieve enkel, de eerste basis voor een balansmechanisme, variable stapgrootte en extra ondersteuningspunten ter vermindering van decubitus. <a href=\"https://www.youtube.com/watch?v=fd7DyHRDB94&amp;t=1s\">Klik hier voor de video van de MARCHIII</a>.</p>",
-            "image": "https://h-intveen.gitlhub.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg",
+            "image": "https://h-intveen.github.io/media/posts/37/SjaanQuirijnsinMARCHIIIExoskelet-5.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
@@ -142,12 +142,12 @@
             "date_modified": "2019-02-02T13:47:36+01:00"
         },
         {
-            "id": "https://h-intveen.gitlhub.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
-            "url": "https://h-intveen.gitlhub.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
+            "id": "https://h-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
+            "url": "https://h-intveen.github.io/verlamde-apen-lopen-weer-dankzij-implantaat.html",
             "title": "Verlamde apen lopen weer dankzij implantaat",
             "summary": "Verlamde apen lopen weer dankzij een implantaat van de École Polytechnique in Lausanne. Klik hier voor het originele artikel (Engelstalig) ",
             "content_html": "Verlamde apen lopen weer dankzij een implantaat van de École Polytechnique in Lausanne.<br><em><a href=\"http://actu.epfl.ch/news/primates-regain-control-of-paralyzed-limb/\">Klik hier voor het originele artikel (Engelstalig) </a></em>",
-            "image": "https://h-intveen.gitlhub.io/media/posts/28/1856x1040.jpg",
+            "image": "https://h-intveen.github.io/media/posts/28/1856x1040.jpg",
             "author": {
                 "name": "Herman in &#x27;t Veen"
             },
